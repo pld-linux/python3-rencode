@@ -6,7 +6,7 @@
 Summary:	Web safe object pickling/unpickling
 Name:		python3-%{module}
 Version:	1.0.6
-Release:	2
+Release:	3
 License:	GPL v3//BSD
 Group:		Libraries/Python
 Source0:	https://github.com/aresch/rencode/archive/v%{version}/%{module}-%{version}.tar.gz
